@@ -1,0 +1,27 @@
+.thin,
+.normal,
+.medium,
+.semibold,
+.bold {
+  display: inline;
+}
+
+.thin {
+  font-weight: 200;
+}
+
+.normal {
+  font-weight: 400;
+}
+
+.medium {
+  font-weight: 600;
+}
+
+.semibold {
+  font-weight: 700;
+}
+
+.bold {
+  font-weight: 800;
+}

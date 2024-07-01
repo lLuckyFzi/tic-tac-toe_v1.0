@@ -1,0 +1,9 @@
+.header-player-container {
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+}
+
+.hr {
+    border: 1px solid rgba(0, 0, 0, 0.199);
+}

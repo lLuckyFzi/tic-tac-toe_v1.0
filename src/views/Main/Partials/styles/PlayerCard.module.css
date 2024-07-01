@@ -1,0 +1,12 @@
+.playerCard {
+    min-width: 200px;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: white;
+  border-radius: 8px;
+  padding: 10px;
+}

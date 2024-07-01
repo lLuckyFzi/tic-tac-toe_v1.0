@@ -1,0 +1,22 @@
+.player-info {
+  display: flex;
+  gap: 10px;
+  font-size: 20px;
+}
+
+.player-button {
+  font-weight: bold;
+  font-family: "Poppins";
+}
+
+.player-input-container {
+  position: relative;
+}
+.player-input-input {
+  padding-right: 40px;
+}
+.player-input-button {
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+}

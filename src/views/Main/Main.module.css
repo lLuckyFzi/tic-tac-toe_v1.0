@@ -1,0 +1,29 @@
+.main-container {
+  background-color: rgb(0, 162, 255);
+  min-height: 100vh;
+}
+
+.game-board {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  gap: 20px;
+}
+
+.box-container {
+  display: flex;
+  gap: 0px 20px;
+}
+
+.game-box-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.box {
+  background-color: white;
+  padding: 10px 20px;
+  border-radius: 8px;
+  min-width: 500px;
+}
